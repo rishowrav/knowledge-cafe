@@ -1,0 +1,53 @@
+[
+    {
+      "id": "123456",
+      "cover": "https://i.ibb.co/8MXdX0B/pexels-tirachard-kumtanom-733856.jpg",
+      "title": "The Secret Garden",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/Rb48pJy/download-4.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": 8,
+      "hashtags": ["#fiction", "#classics", "#gardening"]
+    },
+    {
+      "id": "987654",
+      "cover": "https://i.ibb.co/8MXdX0B/pexels-tirachard-kumtanom-733856.jpg",
+      "title": "The Cosmic Journey",
+      "author": "David Smith",
+      "author_img": "https://i.ibb.co/8rmRCTf/download-3.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": 5,
+      "hashtags": ["#sciencefiction", "#adventure", "#space"]
+    },
+    {
+      "id": "456789",
+      "cover": "https://i.ibb.co/hB4sxkw/pexels-andrea-piacquadio-838413.jpg",
+      "title": "The Forgotten Kingdom",
+      "author": "Sarah Thompson",
+      "author_img": "https://i.ibb.co/8XcNWhm/download-2.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 4,
+      "hashtags": ["#fantasy", "#magic", "#epic"]
+    },
+    {
+      "id": "246810",
+      "cover": "https://i.ibb.co/93jSbSN/pexels-andrea-piacquadio-920382.jpg",
+      "title": "The Art of Cooking",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co/D9B58tt/download.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 10,
+      "hashtags": ["#cooking", "#recipes", "#foodie"]
+    },
+    {
+      "id": "135791",
+      "cover": "https://i.ibb.co/L51x5xd/pexels-andrea-piacquadio-941572.jpg",
+      "title": "The Lost Treasure",
+      "author": "Jessica Lee",
+      "author_img": "https://i.ibb.co/Gt06Kng/download-1.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 2,
+      "hashtags": ["#mystery", "#adventure", "#treasurehunt"]
+    }
+  ]
+  
